@@ -1,0 +1,1 @@
+{"name":"Local: aggresive_cow","url":"/home/vikas/Algozenith Premium Practise/AbkiBaarPhodengeYaar/aggresive_cow.cpp","tests":[{"id":1688056717312,"input":"1\n5 3\n1 3 5 8 10","output":"4\n1 5 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vikas/Algozenith Premium Practise/AbkiBaarPhodengeYaar/aggresive_cow.cpp","group":"local","local":true}

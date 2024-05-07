@@ -1,0 +1,1 @@
+{"name":"Local: chessPiece","url":"/home/vikas/Algozenith Premium Practise/AbkiBaarPhodengeYaar/chessPiece.cpp","tests":[{"id":1687808210536,"input":"2\n9 9\n3 5 2 8\n20 20\n2 3 7 9","output":"2\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vikas/Algozenith Premium Practise/AbkiBaarPhodengeYaar/chessPiece.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: aggresiveCow","url":"/home/vikas/Algozenith Premium Practise/SamsungSWC/aggresiveCow.cpp","tests":[{"id":1688056135431,"input":"1\n5 3\n1 3 5 8 10","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vikas/Algozenith Premium Practise/SamsungSWC/aggresiveCow.cpp","group":"local","local":true}
